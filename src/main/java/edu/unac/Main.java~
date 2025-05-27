@@ -9,7 +9,7 @@ public class Main {
     System.out.printf("Hello and welcome!");
     System.out.println("Se agrego un comentario");
 
-    // comentario de la segunda funcionalidad
+    // comentaria de la segunda funcionalidad
 
     for (int i = 0; i <= 10; i++) {
       //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
